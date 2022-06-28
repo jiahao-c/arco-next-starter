@@ -4,7 +4,7 @@
 
 <div align="center">
 
-An minimal starter boilerplate with [Arco Design](https://arco.design/), Nextjs, and TypeScript.
+A minimal starter boilerplate with [Arco Design](https://arco.design/), Nextjs, and TypeScript.
 
 </div>
 
